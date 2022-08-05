@@ -1,5 +1,5 @@
 # Explo_Musical_chord_detection
-This is my project code on detecting musical chords played on guitar using a fully-connected neural network
+This is our project code (Raja Baidyo and Dhruv Gupta) on detecting musical chords played on guitar using a fully-connected neural network
 
 # Objective:
 To detect what chords are to be played to a song 
